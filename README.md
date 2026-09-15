@@ -19,7 +19,7 @@ This repository contains my notes for all of year 3. As of now, handwritten note
 
 ## For GitHub Users
 A number of issues arise with GitHub's built-in markdown renderer:
-- Many forms of LaTeX math will break, notably $\#$, some matrices. Obsidian renders these correctly
+- Many forms of LaTeX math will break, notably '\#', some matrices. Obsidian renders these correctly
 - Tips, examples, etc. that are rendered well in obsidian do not work on GitHub
 - Internal links to other files will not work
 - Images which are stored in `attachments` will not render
