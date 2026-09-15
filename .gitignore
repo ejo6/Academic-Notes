@@ -12,3 +12,6 @@ Locado
 
 # Any-depth folder of private notes
 private/
+
+# Other stuff
+.DS_Store
