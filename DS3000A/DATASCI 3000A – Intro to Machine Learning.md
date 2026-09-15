@@ -33,3 +33,4 @@ The notation such as "**[ISL]** 9.1–9.2" means _"Chapters 9.1 to 9.2 (inclus
 
 ## Directory
 - [[1. Intro and Math]]
+- [[2. Supervised Learning and Linear Regression]]
