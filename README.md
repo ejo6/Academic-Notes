@@ -17,6 +17,14 @@ This repository contains my notes for all of year 3. As of now, handwritten note
 - [[SEM2/MATH2500A/Math Review/README|README]] - Homepage of Math Notes
 - [[Locado/README|README]] - Homepage of Locado Notes
 
+## For GitHub Users
+A number of issues arise with GitHub's built-in markdown renderer:
+- Many forms of LaTeX math will break, notably $\#$, some matrices. Obsidian renders these correctly
+- Tips, examples, etc. that are rendered well in obsidian do not work on GitHub
+- Internal links to other files will not work
+- Images which are stored in `attachments` will not render
+I recommend cloning this repository, and **just opening it with obsidian**. You can clone it to iCloud if you'd like concurrency between devices as well. 
+
 ## Formatting Rules
 - All files under a parent folder will be ordered (chronologically, magnitudinally, etc.) by a prefix in format "$n$.". For example: *1. Basic Notes on Differential Equations*, *2. Linear Differential Equations*
 
