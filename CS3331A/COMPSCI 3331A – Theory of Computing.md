@@ -33,3 +33,4 @@
 - [[1. Why Study Theory of Computation]]
 - [[2. Languages and Strings]]
 - [[3. The Big Picture]]
+- [[4. Languages and Machines]]

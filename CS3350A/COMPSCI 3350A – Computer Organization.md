@@ -20,3 +20,4 @@
 ## Index
 - [[CS3350A/1. Introduction]]
 - [[2. The CPU]]
+- [[3. The Memory Heiarchy]]
