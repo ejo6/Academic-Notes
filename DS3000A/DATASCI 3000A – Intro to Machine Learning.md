@@ -31,6 +31,6 @@
 | 13   | Nov 30  | **Clustering**  <br>Assignment 10 due  <br>DS 9000A: Project final report due  <br>Assignment 11 released (ungraded) | **[ISL]** 12.4.1; **[PRML]** 9.2.0                        |
 The notation such as "**[ISL]** 9.1–9.2" means _"Chapters 9.1 to 9.2 (inclusive) of the **[ISL]** textbook, including all subsections, e.g., 9.1.2"_. Meanwhile, "**[PRML]** 9.2.0" (i.e., with zero at the end) means _"Section 9.2 of the **[PRML]** textbook, **without** its subsections, i.e., without 9.2.1, etc."_. 
 
-## Directory
+## Index
 - [[1. Intro and Math]]
 - [[2. Supervised Learning and Linear Regression]]

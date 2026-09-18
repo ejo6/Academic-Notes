@@ -29,7 +29,7 @@
 ### Weekly Plan
 ![[Screenshot 2026-09-09 at 11.45.16 AM.png|542]]
 
-## Directory
+## Index
 - [[1. Why Study Theory of Computation]]
 - [[2. Languages and Strings]]
 - [[3. The Big Picture]]

@@ -17,6 +17,6 @@
 | Assignment 3 | Tu. Oct. 28            | Th. Nov. 13, 11:55pm  | 5%     |
 | Assignment 4 | Tu. Nov. 18            | Th. Nov. 27, 11:55pm  | 5%     |
 **Note:** If the final exam mark is greater than the midterm, it will be reweighed. The midterm is not mandatory
-## Directory
-- [[1. Introduction]]
+## Index
+- [[CS3350A/1. Introduction]]
 - [[2. The CPU]]
