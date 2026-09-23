@@ -18,6 +18,7 @@
 | Assignment 4 | Tu. Nov. 18            | Th. Nov. 27, 11:55pm  | 5%     |
 **Note:** If the final exam mark is greater than the midterm, it will be reweighed. The midterm is not mandatory
 ## Index
-- [[CS3350A/1. Introduction]]
+- [[CS3350A/1. Introduction|1. Introduction]]
 - [[2. The CPU]]
 - [[3. The Memory Heiarchy]]
+- [[4. Cache Implementations]]
