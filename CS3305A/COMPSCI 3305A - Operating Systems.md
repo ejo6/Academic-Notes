@@ -16,7 +16,7 @@
 | Midterm         | 18%    |
 | Final Exam      | 48%    |
 **Assignment Weight Due Date (by 11:55 PM)**
-1.  8% October 2, 2026
+1.  8% October 2, 2026 (pushed back)
 2. 8% October 20, 2026
 3. 8% November 4. 2026
 4. 10% December 1, 2026

@@ -34,3 +34,5 @@
 - [[2. Languages and Strings]]
 - [[3. The Big Picture]]
 - [[4. Languages and Machines]]
+- [[5. State Minimization]]
+- [[6. State Tansducers]]
