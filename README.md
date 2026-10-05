@@ -1,5 +1,6 @@
 This repository contains my notes for all of year 3. As of now, handwritten notes are not taken in obsidian, but are imported in regularly. 
 ## Course Overviews
+
 ### Semester 1
 - [[COMPSCI 3307A – Object-Oriented Design & Analysis]]
 - [[COMPSCI 3331A – Theory of Computing]]
@@ -24,6 +25,8 @@ A number of issues arise with GitHub's built-in markdown renderer:
 - Internal links to other files will not work
 - Images which are stored in `attachments` will not render
 I recommend cloning this repository, and **just opening it with obsidian**. You can clone it to iCloud if you'd like concurrency between devices as well. 
+
+_**I strongly recommend downloading obsidian**_, `git clone` this folder, and then open it as a vault in obsidian. Cloning the notes will update the vault automatically. 
 
 ## Formatting Rules
 - All files under a parent folder will be ordered (chronologically, magnitudinally, etc.) by a prefix in format "$n$.". For example: *1. Basic Notes on Differential Equations*, *2. Linear Differential Equations*
