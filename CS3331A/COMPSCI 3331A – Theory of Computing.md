@@ -30,9 +30,13 @@
 ![[Screenshot 2026-09-09 at 11.45.16 AM.png|542]]
 
 ## Index
-- [[1. Why Study Theory of Computation]]
+### Chapter 5
+- [[1. Why Study Theory of Computation]] - Quick Intro
 - [[2. Languages and Strings]]
 - [[3. The Big Picture]]
 - [[4. Languages and Machines]]
 - [[5. State Minimization]]
+- [[6. State Tansducers]] - Applications
+
+### Chapter 6
 - [[6. State Tansducers]]

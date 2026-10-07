@@ -25,3 +25,4 @@
 - [[4. Cache Implementations]]
 ### Chapter 2
 - [[5. Logic Prelims]]
+- [[6. Gates, Switches, and Boolean Algebra]]
