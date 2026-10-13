@@ -13,9 +13,13 @@ Locado
 # Any-depth folder of private notes
 private/
 
+# Any-depth folder of TODO lists
+TODO.md
+
 # Daily Notes
 2026-
 2027-
 
 # Other stuff
 .DS_Store
+

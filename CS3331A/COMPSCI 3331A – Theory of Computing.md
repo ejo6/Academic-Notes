@@ -39,4 +39,4 @@
 - [[6. State Tansducers]] - Applications
 
 ### Chapter 6
-- [[6. State Tansducers]]
+- [[7. Regular Expressions]]
