@@ -36,3 +36,5 @@ The notation such as "**[ISL]** 9.1–9.2" means _"Chapters 9.1 to 9.2 (inclus
 - [[2. Supervised Learning and Linear Regression]]
 - [[3. Probability and Maximum Likelihood]]
 - [[4. Classification]]
+- [[5. Generalization & Bias-Variance Tradeoff]]
+- [[6. Regularization and Feature Engineering]]

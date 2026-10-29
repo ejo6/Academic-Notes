@@ -40,3 +40,15 @@
 
 ### Chapter 6
 - [[7. Regular Expressions]]
+
+### Chapter 7
+- [[8. Regular Grammars]]
+
+### Chapter 8
+- [[9. Regular and Nonregular Languages]]
+
+### Chapter 11
+- [[10. Context Free Grammars]]
+
+### Chapter 12
+- [[11. Push Down Automata]]
